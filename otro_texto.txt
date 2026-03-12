@@ -1,2 +1,7 @@
 esto es otro texto modificacion de la otra rama
 esto es otro texto modificacion del main
+
+
+
+
+esto es para la pull request
